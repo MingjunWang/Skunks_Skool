@@ -17,6 +17,10 @@ The programming languages _Python_ and _R_ dominate datascience. For visualizati
 [top](#skunks-skool)
 TODO - add excellent learning python and R links here
 
+[Python Tutorial](https://www.w3schools.com/python/)
+[R Tutorial](https://www.w3schools.com/r/)
+[Learn Python Programming](https://www.programiz.com/python-programming)
+[Introduction to R, RStudio, and R Markdown](https://bookdown.org/ripberjt/labbook/introduction-to-r-rstudio-and-r-markdown.html)
 
 
 ## Step 2 Build simple supervised models 
@@ -57,6 +61,9 @@ Then,
 
 TODO - add links related to linear and logistic regression.   
 
+[Linear vs Logistic Regression](https://www.analyticsvidhya.com/blog/2020/12/beginners-take-how-logistic-regression-is-related-to-linear-regression/)
+[Linear Regression vs Logistic Regression](https://www.javatpoint.com/linear-regression-vs-logistic-regression-in-machine-learning)
+[Linear to Logistic Regression](https://www.kdnuggets.com/2020/03/linear-logistic-regression-explained.html)
 
 ## Step 3
 TODO
